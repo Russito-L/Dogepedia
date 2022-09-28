@@ -1,5 +1,5 @@
 # Dogepedia
-[![Captura-de-pantalla-1.png](https://i.postimg.cc/Tws8LTHb/Captura-de-pantalla-1.png)](https://postimg.cc/342fzQhr)
+[![Captura-de-pantalla-2.png](https://i.postimg.cc/VNjB0gGW/Captura-de-pantalla-2.png)](https://postimg.cc/PL58BWkC)
 
 
 
