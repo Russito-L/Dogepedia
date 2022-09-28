@@ -1,4 +1,9 @@
 # Dogepedia
+[![Captura-de-pantalla-1.png](https://i.postimg.cc/Tws8LTHb/Captura-de-pantalla-1.png)](https://postimg.cc/342fzQhr)
+
+
+
+
 Este proyecto consistió en el desarrollo de una SPA (Single Page Application), en la cual utiliza datos de una API (The Dog API) 
 y parte de la información extraída es almacenada en una Base de Datos, (#PostgreSQL) para luego ser utilizada a conveniencia.
 
